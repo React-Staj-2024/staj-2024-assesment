@@ -18,8 +18,6 @@
 
 - **Çoklu Şehir Desteği**: Kullanıcılar, birden fazla şehrin hava durumu bilgisini sırayla görüntüleyebilmeli.
 
-<br>
-
 ## Ek Özellikler
 
 - **Geolokasyon Desteği**: Kullanıcının mevcut konumunu kullanarak otomatik hava durumu bilgisi sağlama.
@@ -29,8 +27,6 @@
 - **Responsive Tasarım**: Uygulama, çeşitli cihaz ve ekran boyutlarında düzgün bir şekilde görüntülenmeli.
 
 - **Hava Durumu İkonları**: Mevcut hava durumunu yansıtan dinamik ikonlar veya görseller kullanılmalı.
-
-<br>
 
 ## Teknik Detaylar
 
@@ -42,14 +38,15 @@
 
 - **Hava Durumu İkonları**: Mevcut hava durumunu yansıtan dinamik ikonlar veya görseller kullanılmalı.
 
-<br>
-
 # Teslim Kriterleri:
 
 - Proje kaynak kodları GitHub'da bir repo olarak yayınlanmalı.
+- Arayüz tasarımı Figma'ya mümkün olduğunca sadık olmalı.
+- Proje, yukarıda belirtilen gereksinimleri karşılamalı ve ek özelliklerden en az birini içermeli.
+- Proje, README.md dosyası içermeli ve bu dosyada proje hakkında genel bilgiler, kullanılan teknolojiler ve proje kurulumu gibi bilgiler yer almalı.
+- Proje, Expo/GitHub Pages veya benzeri bir platformda yayınlanmalı.
 
 # Teslim adresi
 
-- Proje kaynak kodları GitHub'da bir repo olarak yayınlanmalı.
 - Bu repo URL'ini [hello@reactstaj.com](mailto:hello@reactstaj.com) adresine göndermelisiniz.
-- Başarılar dileriz
+- Başarılar dileriz.
