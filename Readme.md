@@ -6,7 +6,7 @@
 
 #### Figma UI Link : <a>https://www.figma.com/file/CmZupOVTB1WkYfLwElyzLL/iWeather?type=design&node-id=3%3A376&mode=design&t=Fccntqhigcu1L8Xv-1</a>
 
-#### _
+<br>
 
 ## 1 - Gereksinimler
 
@@ -18,7 +18,7 @@
 
    * Çoklu Şehir Desteği : Kullanıcılar, birden fazla şehrin hava durumu bilgisini sırayla görüntüleyebilmeli.
 
-#### _
+<br>
 
 ## 2 - Ek Özellikler
 
@@ -30,7 +30,7 @@
 
    * Hava Durumu İkonları : Mevcut hava durumunu yansıtan dinamik ikonlar veya görseller kullanılmalı.
 
-#### _
+<br>
 
 ## 3 - Teknik Detaylar
 
@@ -42,7 +42,7 @@
 
    * Hava Durumu İkonları : Mevcut hava durumunu yansıtan dinamik ikonlar veya görseller kullanılmalı.
 
-#### _
+<br>
 
 # Teslim Kriterleri:
 ### Proje kaynak kodları GitHub'da bir repo olarak yayınlanmalı.
