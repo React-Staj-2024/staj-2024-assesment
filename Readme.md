@@ -47,3 +47,9 @@
 # Teslim Kriterleri:
 
 - Proje kaynak kodları GitHub'da bir repo olarak yayınlanmalı.
+
+# Teslim adresi
+
+- Proje kaynak kodları GitHub'da bir repo olarak yayınlanmalı.
+- Bu repo URL'ini [hello@reactstaj.com](mailto:hello@reactstaj.com) adresine göndermelisiniz.
+- Başarılar dileriz
