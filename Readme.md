@@ -36,7 +36,7 @@
 
 - **Axios Kullanımı**: Veri çekme işlemleri için Axios kullanılmalı.
 
-- **Frontend Teknolojileri**: React Native kullanılmalı.
+- **Frontend Teknolojileri**: React Native/React kullanılmalı.
 
 - **Hata Yönetimi**: API sorgularında oluşabilecek hatalar (yanlış şehir adı, API limit aşımı vb.) kullanıcıya anlaşılır mesajlar halinde gösterilmeli.
 
